@@ -39,6 +39,10 @@ should include a separate IVT .nc file for each month, for both  eastward and no
 
 Note that this detection algorithm was implemented on a Linux machine, and has not been tested for Windows/Mac users.
 
+## Example Output
+
+![alt text](https://github.com/daemonkennett/ar_detection/blob/main/example_output.png)
+
 ## License
 
 MIT
